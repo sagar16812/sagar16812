@@ -14,8 +14,9 @@ I specialize in:
 My goal is to push the boundaries of what's possible in agriculture and robotics through cutting-edge autonomous technologies.
 
 ## 🔭 I’m currently working on
-- Exploring new ways to integrate machine learning and computer vision into precision agriculture to enhance productivity and sustainability.
+- Exploring new ways to integrate machine learning and computer vision on resource-constrained devices to enhance productivity and sustainability.
 - Projects related to robot perception and localization.
+- I also write articles on [Medium](https://medium.com/@sagarcadet), where I share my insights on robotics and computer vision.
 
 ## 🌱 I’m currently learning
 - Advanced deep learning techniques for object detection and segmentation.
@@ -47,7 +48,6 @@ My goal is to push the boundaries of what's possible in agriculture and robotics
 - **Email**: [sagar16812@gmail.com](mailto:sagar16812@gmail.com)
 - **Twitter**: [@sagarcadet](https://x.com/sagarcadet)
 - **Medium**: [@sagarcadet](https://medium.com/@sagarcadet)
-
 
 
 Thank you for visiting my profile, and I look forward to connecting with you!
