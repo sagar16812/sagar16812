@@ -2,7 +2,7 @@
 
 ### Computer Vision | Robot Perception
 
-As a researcher at the intersection of computer vision and robotics, I am passionate about developing innovative solutions that harness the power of autonomous technologies to improve the precision and efficiency of modern agriculture.
+As a researcher/engineer at the intersection of computer vision and robotics, I am passionate about developing innovative solutions that harness the power of autonomous technologies to improve the precision and efficiency of modern agriculture.
 
 ## 💬 Ask me about
 - Machine learning and computer vision techniques.
