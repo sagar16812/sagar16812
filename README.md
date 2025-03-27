@@ -1,40 +1,42 @@
-# Hi, I'm Sagar Kumar 👋
+# Hi, I'm Sagar Kumar
 
-### Computer Vision | Robot Perception
+### Computer Vision | Robot Perception | Sensor Fusion
 
-As a researcher/engineer at the intersection of computer vision and robotics, I am passionate about developing innovative solutions that harness the power of autonomous technologies to improve the precision and efficiency of modern agriculture.
+## Research Interests
+I am passionate about **robot perception, localization, and autonomous navigation** for Unmanned Vehicles. My research focuses on:  
+- **SLAM & State Estimation** – Visual-inertial and LiDAR-based localization.  
+- **Learning-Enabled Autonomous Systems** – AI-driven autonomy and decision-making.  
+- **Sensor Fusion** – Combining **IMU, GNSS, cameras, and depth sensors**.  
+- **Embedded AI for Robotics** – Optimizing **computer vision models** for resource-constrained platforms.  
+- **Uncertainty Estimation & Safety** – Ensuring robustness in **dynamic environments**. 
 
-## 💬 Ask me about
-- Machine learning and computer vision techniques.
-- Robot perception and localization.
-- ROS 2
-- Photogrammetry and multi-spectral imaging.
-- Agriculture
+## Ask Me About
+- Robot Perception & Localization  
+- ROS 2 Development  
+- Machine Learning & Computer Vision for Robotics  
+- Photogrammetry & Multi-Spectral Imaging  
+- AI in Agriculture
 
-## 🔭 I’m currently working on
-- Exploring new ways to integrate machine learning and computer vision on resource-constrained devices to enhance productivity and sustainability.
-- Projects related to robot perception and localization.
-- I also write articles on [Medium](https://medium.com/@sagarcadet), sharing my insights on robotics and computer vision.
+## Current Work
+- Developing perception & localization pipelines for autonomous agricultural UGVs, focusing on sensor fusion, SLAM, and real-time navigation.
+- Optimizing machine learning and computer vision models for resource-constrained robotics, enhancing efficiency and deployment feasibility.
 
-## 🌱 I’m currently learning
-- The latest developments in ROS 2 for robot perception.
-- Advanced deep learning techniques for object detection and segmentation.
-- New methodologies in multi-spectral image analysis and photogrammetry.
+## Publications & Writing
+- I actively share insights on robotics, AI, and computer vision through my [Medium articles](https://medium.com/@sagarcadet).
 
-## 👯 I’m looking to collaborate on
-- Robot perception and localization projects.
-- Projects involving autonomous agricultural robots.
-- Development of machine learning models for precision farming.
+## Looking for collaborations
+I am seeking **PhD opportunities** in:  
+- Robot Perception & SLAM  
+- AI for autonomous navigation 
+- Sensor fusion for safety-critical systems
+- Autonomous agricultural robots
+- Precision-Farming
 
-## 🤔 I’m looking for help with
-- Integrating multi-sensor data fusion for improved environmental perception.
-- Finding a PhD position in robot perception and localization.
-
-## 📫 How to reach me
-- **LinkedIn**: [Sagar Kumar](https://www.linkedin.com/in/sagark30/)
-- **Email**: [sagar16812@gmail.com](mailto:sagar16812@gmail.com)
-- **Twitter**: [@sagarcadet](https://x.com/sagarcadet)
-- **Medium**: [@sagarcadet](https://medium.com/@sagarcadet)
+## Connect with Me
+- **LinkedIn**: [Sagar Kumar](https://www.linkedin.com/in/sagark30/)  
+- **Email**: [sagar16812@gmail.com](mailto:sagar16812@gmail.com)  
+- **X (Twitter)**: [@sagarcadet](https://x.com/sagarcadet)  
+- **Medium**: [@sagarcadet](https://medium.com/@sagarcadet) 
 
 
-Thank you for visiting my profile, and I look forward to connecting with you!
+**Let’s collaborate!** If you're working on **robot perception, SLAM, or AI-driven autonomy**, I’d love to discuss potential research opportunities. 
